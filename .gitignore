@@ -1,0 +1,15 @@
+# KiCad
+fp-info-cache
+**/*-backups/
+**/backups/
+*.lck
+
+# STM32
+**/Backup/
+**/Release/
+**/Debug/
+
+# kiu
+**/unreleased/
+.~lock.*
+tmp.bin
