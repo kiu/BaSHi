@@ -1,6 +1,8 @@
 # BaSHi
 BaSHi - Bidirectional adapter for Sniffing Home appliances (isolated)
 
+WARNING - THIS IS AN UNTESTED PROTOTYPE - WILL UPDATE ONCE FUNCTIONALITY HAS BEEN VERIFIED
+
 <img src="REV_A/BaSHi_render_top.png" width="800"/>
 
 <img src="REV_A/BaSHi_render_bottom.png" width="800"/>
