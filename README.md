@@ -16,8 +16,8 @@ In <ins>isolated</ins> mode, the ESP32 is electrically isolated from the home ap
 
 # Files
 - [kicad](REV_A/kicad/): KiCad schematic, board and gerbers
-- [BOM](REV_A/kicad/BaSHi-bom.ods): Bill of materials (ODS)
-- [BOM](REV_A/kicad/BaSHi-bom.pdf): Bill of materials (PDF)
+- [BOM](REV_A/BaSHi-bom.ods): Bill of materials (ODS)
+- [BOM](REV_A/BaSHi-bom.pdf): Bill of materials (PDF)
 - [datasheets](REV_A/datasheets/): Datasheets of main components
 - [Sketch](bsh-dbus-logger/): Adapted arduino sketch
 
