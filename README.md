@@ -3,6 +3,8 @@ BaSHi - Bidirectional adapter for Sniffing Home appliances (isolated)
 
 WARNING - THIS IS AN UNTESTED PROTOTYPE - WILL UPDATE ONCE FUNCTIONALITY HAS BEEN VERIFIED
 
+REV A semms to do what it needs to do, but its a FAIL. Wrong footprints and isolation distance missing. New REV B is in the works.
+
 <img src="REV_A/BaSHi_render_top.png" width="800"/>
 
 <img src="REV_A/BaSHi_render_bottom.png" width="800"/>
