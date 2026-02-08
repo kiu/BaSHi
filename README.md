@@ -45,7 +45,7 @@ The following files apply to both BaSHi variants.
 
 - [Sketch](common/bsh-dbus-logger/): Adapted Arduino sketch (Bus2USB Bridge)
 - [Mech](common/mech/): Simple OpenSCAD enclosure
-- [BOM](common/BaSHi-boms.ods): Bills of materials [(PDF)](common/BaSHi-boms.pdf)
+- [BOM](common/BaSHi-boms.ods): Bills of materials ([PDF](common/BaSHi-boms.pdf))
 - [Datasheets](common/datasheets/): Datasheets of main components
 
 # Links
