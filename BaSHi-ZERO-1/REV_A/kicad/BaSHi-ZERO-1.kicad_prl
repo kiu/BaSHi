@@ -115,6 +115,18 @@
   "project": {
     "files": [
       {
+        "name": "BaSHi-ZERO-1.kicad_pcb",
+        "open": true,
+        "window": {
+          "display": 0,
+          "maximized": false,
+          "pos_x": -7,
+          "pos_y": 0,
+          "size_x": 1734,
+          "size_y": 1399
+        }
+      },
+      {
         "name": "BaSHi-ZERO-1.kicad_sch",
         "open": true,
         "window": {
