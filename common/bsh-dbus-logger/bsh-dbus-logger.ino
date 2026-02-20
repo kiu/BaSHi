@@ -190,14 +190,13 @@ void led_set(uint8_t color, uint8_t ms) {
 // ---------------------------------------------------------------------------
 
 void setup() {
+  serial_dbus.begin(9600, SERIAL_8N1, RX_PIN, TX_PIN);
+
   delay(500);
 
   led_init();
-
   serial_usb.begin(115200);
   serial_usb.println("\n\nB/S/H/ D-Bus logger started.");
-
-  serial_dbus.begin(9600, SERIAL_8N1, RX_PIN, TX_PIN);
 }
 
 void loop() {
